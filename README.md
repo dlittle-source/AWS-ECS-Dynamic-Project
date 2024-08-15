@@ -10,7 +10,7 @@
    - Configured a VPC with 2 public and 4 private subnets spread across two availability zones for fault tolerance.
 
 2. **Internet Gateway:**
-   - Deployed an Internet Gateway to enable connectivity between the VPC and the wider Internet.
+   - Deployed an Internet Gateway to enable connectivity between the VPC and the Internet.
 
 3. **Security Groups:**
    - Established Security Groups as a network firewall mechanism to control traffic to and from various resources.
