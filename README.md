@@ -1,4 +1,4 @@
-![Alt text](Docker_Dynamic_Website.png)
+
 
 **Project: Hosting Dynamic Website on AWS ECS Fargate**
 
