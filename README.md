@@ -1,6 +1,6 @@
 ![Alt text](Docker_Dynamic_Website.png)
 
-**Project: Containerized Dynamic Website Deployment on AWS ECS Fargate** 
+**Project: Host a Dynamic Website with AWS ECS Fargate** 
 
 **Overview:** This project aims to demonstrate the deployment of a dynamic website on AWS ECS Fargate, utilizing various AWS services for scalability, reliability, and security.
 
